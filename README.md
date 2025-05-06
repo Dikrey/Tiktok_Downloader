@@ -74,10 +74,6 @@ Terima kasih telah berkunjung ke project ini. Semoga bermanfaat dan jangan ragu 
 
 ---
 
-## ✅ Tips Tambahan
-
-Kamu juga bisa tambahkan badge di awal README agar lebih profesional:
-
 ```markdown
 ![GitHub license](https://img.shields.io/github/license/Dikrey/Tiktok_Downloader)
 ![GitHub stars](https://img.shields.io/github/stars/Dikrey/repo?style=social)
