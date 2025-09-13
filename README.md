@@ -3,7 +3,7 @@
 
 ### 🎯 Overview
 
-**TikTok Video Downloader** adalah website sederhana berbasis HTML, CSS, dan JavaScript yang memungkinkan pengguna untuk mengunduh video dan audio dari TikTok secara gratis tanpa watermark. untuk mendapatkan link download video dan dirancang dengan antarmuka modern, responsif, dan mendukung mode gelap (dark mode).
+**TikTok Video Downloader** adalah website sederhana berbasis HTML, CSS, dan JavaScrip yang memungkinkan pengguna(user) untuk mengunduh video dan audio dari TikTok secara gratis tanpa watermark. untuk mendapatkan link download video dan dirancang dengan antarmuka modern, responsif, dan mendukung mode gelap (dark mode).
 
 ---
 
